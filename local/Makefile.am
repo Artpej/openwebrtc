@@ -23,7 +23,9 @@ libopenwebrtc_local_la_SOURCES = \
     owr_local_media_source.c \
     owr_media_renderer.c \
     owr_audio_renderer.c \
+    owr_audio_renderer_extendable.c \
     owr_video_renderer.c \
+    owr_video_renderer_extendable.c \
     owr_image_renderer.c \
     owr_image_server.c \
     owr_uri_source.c \
@@ -46,7 +48,9 @@ include_HEADERS = \
     owr_local_media_source.h \
     owr_media_renderer.h \
     owr_audio_renderer.h \
+    owr_audio_renderer_extendable.h \
     owr_video_renderer.h \
+    owr_video_renderer_extendable.h \
     owr_image_renderer.h \
     owr_image_server.h \
     owr_uri_source.h \

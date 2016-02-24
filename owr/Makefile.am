@@ -152,8 +152,12 @@ Owr_@OWR_API_VERSION_UNDERSCORE@_gir_FILES = \
     ../local/owr_media_renderer.c \
     ../local/owr_audio_renderer.h \
     ../local/owr_audio_renderer.c \
+    ../local/owr_audio_renderer_extendable.h \
+    ../local/owr_audio_renderer_extendable.c \
     ../local/owr_video_renderer.h \
     ../local/owr_video_renderer.c \
+    ../local/owr_video_renderer_extendable.h \
+    ../local/owr_video_renderer_extendable.c \
     ../local/owr_image_renderer.h \
     ../local/owr_image_renderer.c \
     ../local/owr_image_server.h \
